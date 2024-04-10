@@ -13,7 +13,7 @@
 
   Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://adnan-bhaldar.github.io/tour/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adnan-bhaldar.github.io/Tour/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
