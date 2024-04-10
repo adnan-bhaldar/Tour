@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/tour)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/tour?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/tour?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan_Bhaldar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
   [![YouTube Video Views](https://img.shields.io/youtube/views/9ts7JnruWg4?style=social)](https://youtu.be/9ts7JnruWg4)
 
   <br />
